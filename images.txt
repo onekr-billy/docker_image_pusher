@@ -1,2 +1,2 @@
-mysql/mysql-server
-eosphorosai/dbgpt:latest
+# mysql/mysql-server
+eosphorosai/dbgpt
