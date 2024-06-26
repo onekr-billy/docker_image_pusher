@@ -1,5 +1,9 @@
+# registry.cn-beijing.aliyuncs.com/cloudfame-prod/xx
+# docker login --username=cloudfame --password=ZAQ12wsx registry.cn-beijing.aliyuncs.com
+
 # mysql/mysql-server
 # eosphorosai/dbgpt
-postgres:14.2-alpine
-node:19.4.0-alpine3.17
-python:3.11-slim
+# postgres:14.2-alpine
+# node:19.4.0-alpine3.17
+# python:3.11-slim
+starrocks/allin1-ubuntu
