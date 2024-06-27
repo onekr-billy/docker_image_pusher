@@ -7,5 +7,5 @@
 # node:19.4.0-alpine3.17
 # python:3.11-slim
 # starrocks/allin1-ubuntu
-apache/doris
+openjdk:8u342-jdk
 
