@@ -6,4 +6,6 @@
 # postgres:14.2-alpine
 # node:19.4.0-alpine3.17
 # python:3.11-slim
-starrocks/allin1-ubuntu
+# starrocks/allin1-ubuntu
+apache/doris
+
