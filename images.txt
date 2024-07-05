@@ -15,6 +15,5 @@
 # redis:7
 # zhang5171291/rabbitmq-delayed
 # nacos/nacos-server:v2.2.3
-hengyunabc/arthas
-
-
+# hengyunabc/arthas
+caddy
