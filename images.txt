@@ -7,5 +7,13 @@
 # node:19.4.0-alpine3.17
 # python:3.11-slim
 # starrocks/allin1-ubuntu
-openjdk:8u342-jdk
+# openjdk:8u342-jdk
+apache/apisix
+apache/apisix-dashboard
+bitnami/etcd:3.4.9
+tzfun/etcd-workbench:latest
+redis:7
+zhang5171291/rabbitmq-delayed
+nacos/nacos-server:v2.2.3
+
 
