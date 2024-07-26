@@ -20,4 +20,5 @@
 # mindsdb/mindsdb
 # index.docker.io/appsmith/appsmith-ee:latest
 directus/directus
+appwrite/appwrite
 
