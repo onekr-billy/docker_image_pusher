@@ -18,4 +18,6 @@
 # hengyunabc/arthas
 # caddy
 # mindsdb/mindsdb
-index.docker.io/appsmith/appsmith-ee:latest
+# index.docker.io/appsmith/appsmith-ee:latest
+directus/directus
+
