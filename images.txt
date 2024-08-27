@@ -19,6 +19,6 @@
 # caddy
 # mindsdb/mindsdb
 # index.docker.io/appsmith/appsmith-ee:latest
-directus/directus
-appwrite/appwrite
-
+# directus/directus
+# appwrite/appwrite
+codercom/code-server
