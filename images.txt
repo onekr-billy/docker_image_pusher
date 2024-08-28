@@ -21,4 +21,6 @@
 # index.docker.io/appsmith/appsmith-ee:latest
 # directus/directus
 # appwrite/appwrite
-codercom/code-server
+# codercom/code-server
+neo4j
+neo4j/browser
