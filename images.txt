@@ -1,5 +1,4 @@
-# registry.cn-beijing.aliyuncs.com/cloudfame-prod/xx
-# docker login --username=cloudfame --password=ZAQ12wsx registry.cn-beijing.aliyuncs.com
+# registry.cn-shanghai.aliyuncs.com/cloudfame-prod/xx
 
 # mysql/mysql-server
 # eosphorosai/dbgpt
