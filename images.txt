@@ -22,4 +22,5 @@
 # appwrite/appwrite
 # codercom/code-server
 # neo4j
-sunpeek/poetry:py3.10-slim
+# sunpeek/poetry:py3.10-slim
+qianmoq/datacap
