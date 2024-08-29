@@ -22,5 +22,5 @@
 # directus/directus
 # appwrite/appwrite
 # codercom/code-server
-neo4j
-neo4j/browser
+# neo4j
+sunpeek/poetry:py3.10-slim
