@@ -24,4 +24,4 @@
 # neo4j
 # sunpeek/poetry:py3.10-slim
 # qianmoq/datacap
-sickcodes/docker-osx:sonoma
+zhang5171291/docker-osx:sonoma
