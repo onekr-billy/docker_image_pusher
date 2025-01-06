@@ -25,4 +25,5 @@
 # sunpeek/poetry:py3.10-slim
 # qianmoq/datacap
 # zhang5171291/docker-osx:sonoma
-hhyo/archery:v1.10.0
+# hhyo/archery:v1.10.0
+steedos/steedos-community:latest
