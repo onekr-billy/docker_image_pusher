@@ -27,4 +27,5 @@
 # zhang5171291/docker-osx:sonoma
 # hhyo/archery:v1.10.0
 # steedos/steedos-community:latest
-dannicool/wechatbot-provider-windows:wc-3935
+# dannicool/wechatbot-provider-windows:wc-3935
+ubuntu:24.04
