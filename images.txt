@@ -28,4 +28,5 @@
 # hhyo/archery:v1.10.0
 # steedos/steedos-community:latest
 # dannicool/wechatbot-provider-windows:wc-3935
-ubuntu:24.04
+# ubuntu:24.04
+ghcr.io/tapdata/tapdata
