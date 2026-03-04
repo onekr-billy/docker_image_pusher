@@ -30,4 +30,4 @@
 # dannicool/wechatbot-provider-windows:wc-3935
 # ubuntu:24.04
 # ghcr.io/tapdata/tapdata
-nvidia-cuda:11.8.0-cudnn8-runtime-ubuntu22.04
+openjdk:23-ea-17-jdk
